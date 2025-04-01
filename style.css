@@ -1,0 +1,22 @@
+h1 {
+    color:red;
+    font-size: 24px;
+    text-shadow: 1px 1px; color: gray;
+}
+
+h3 {
+    color:red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: justify;
+    letter-spacing: 2px;
+    line-height: 2.0;
+    
+    }
+    button{
+        background-color: white;
+    }
+
+body{
+    background-color: black;
+}
